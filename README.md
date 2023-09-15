@@ -36,14 +36,13 @@ $ npm install
 ```
 
 ### Run the app
+The node modules has not been uploaded because of large file and .gitingore excludes those files.
+This project has all the functionalities which is given in the task.
 
 ```
 $ npm start
 ```
 
-> Currently all the requests are made to the following url: <https://drab-hare-zipper.cyclic.app><br/>
-> To be able to send requests to the _local server_ which is running at <http://localhost:5000>, you need to configure the ` index.js` file and change the value of the ` useContext Provider` to <http://localhost:5000><br/>
-> Link to the [server](https://github.com/kVarunkk/Twitter-Backend) repo
 
 ## License
 
